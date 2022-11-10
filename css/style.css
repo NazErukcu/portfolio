@@ -10,6 +10,7 @@ body {
 a {
     color: #222222;
     transition: all .3s;
+    text-decoration: underline;
 }
 
 a:hover,
@@ -17,7 +18,7 @@ a:active,
 a:focus {
     color: #FF6F61;
     outline: none;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .btn:focus {
